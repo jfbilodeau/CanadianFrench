@@ -4,7 +4,7 @@ Purpose
 
 This page supports trainers, translators, and content creators in using Canadian French (Quebecois) terminology, highlighting differences with European French and recommended usage.
 
-Source: Vitrine linguistique (https://vitrinelinguistique.oqlf.gouv.qc.ca/).
+Resource: Vitrine linguistique (https://vitrinelinguistique.oqlf.gouv.qc.ca/).
 
 | English  Term | Canadian French (Québecois) | European  French | Notes |
 | --- | --- | --- | --- |
