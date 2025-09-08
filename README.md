@@ -1,11 +1,21 @@
-Canadian (Québec) French
+# Canadian (Québec) French
 
-Purpose
+## Purpose
 
-This page supports trainers, translators, and content creators in using Canadian French (Quebecois) terminology, highlighting differences with European French and recommended usage.
+This page supports trainers, translators, and content creators in using Canadian French (Québécois) terminology by providing a curated selection of common terms, recommended equivalents, and notes on differences with European French. It is a selection, not an exhaustive glossary; contributions to expand or refine the list are welcome via issues or pull requests.
 
-Resource: Vitrine linguistique (https://vitrinelinguistique.oqlf.gouv.qc.ca/).
+Resource: [Vitrine linguistique (https://vitrinelinguistique.oqlf.gouv.qc.ca/)](https://vitrinelinguistique.oqlf.gouv.qc.ca/).
 
+## Contributing
+
+We welcome contributions! You can help improve this project by:
+
+- **Reporting issues:** If you notice errors, omissions, or have suggestions, please [open a GitHub issue](https://github.com/jfbilodeau/CanadianFrench/issues).
+- **Submitting pull requests (PRs):** If you want to add or correct terms, update documentation, or improve the project, fork the repository and submit a pull request. Please provide a clear description of your changes.
+
+For questions or discussions, feel free to use the Issues tab. Thank you for helping make this resource better!
+
+## Canadian French vs European French
 | English  Term | Canadian French (Québecois) | European  French | Notes |
 | --- | --- | --- | --- |
 | Email | Courriel | Email | Canada officially promotes "courriel" to avoid anglicism. |
@@ -35,20 +45,20 @@ Resource: Vitrine linguistique (https://vitrinelinguistique.oqlf.gouv.qc.ca/).
 | Text  message | Texto / Message texte | Texto / SMS | “ Texto ” is common in Quebec and France; “SMS” is more formal in France. |
 
 
-Anglicisms to Avoid
+## Anglicisms to Avoid
 
 | English  Term | Recommended  French  Equivalent | Notes /  Anglicism  to  Avoid |
 | --- | --- | --- |
-| Browser | Navigateur / Navigateur Web | Avoid  browser ; “ navigateur  Web” is precise in formal contexts. “ Butineur ” was proposed in Quebec but is rare.  Don’t use it |
-| Deliver  (training session) | Donner / Animer (une séance, un atelier, une formation) | Avoid literal  livrer  in this sense; “donner” or “ animer ” are idiomatic. |
-| Upload | Téléverser | Avoid  uploader ; “ téléverser ” is official in Quebec and clear in France. |
-| Download | Télécharger | Avoid  downloader ; “ télécharger ” is correct in both varieties. |
+| Browser | Navigateur / Navigateur Web | Avoid  browser ; “navigateur  Web” is precise in formal contexts. “Butineur” was proposed in Quebec but is rare.  Don’t use it |
+| Deliver  (training session) | Donner / Animer (une séance, un atelier, une formation) | Avoid literal  livrer  in this sense; “donner” or “animer” are idiomatic. |
+| Upload | Téléverser | Avoid  uploader ; “téléverser” is official in Quebec and clear in France. |
+| Download | Télécharger | Avoid  downloader ; “télécharger” is correct in both varieties. |
 | Dashboard | Tableau de bord | Avoid   dashboard ; “tableau de bord”  is  standard. |
-| Tag (social media) | Étiquette | Avoid  tag ; “ étiquette ” is the French equivalent. |
+| Tag (social media) | Étiquette | Avoid  tag ; “étiquette ” is the French equivalent. |
 | Online shopping | Magasinage en ligne / Achat en ligne | Avoid   shopping en ligne ; “magasinage” in  Quebec , “achat” in France. |
 | Folder (computer) | Dossier | Avoid  folder ; “dossier” is standard. |
 | Click ( verb ) | Cliquer | Avoid  clicker ; “ cliquer ” is correct. |
-| Settings | Paramètres / Réglages | Avoid  settings ; “ paramètres ” is common in Quebec, “ réglages ” also in France. |
+| Settings | Paramètres / Réglages | Avoid  settings ; “paramètres” is common in Quebec, “réglages ” also in France. |
 | Trash (computer) | Corbeille | Avoid   trash ; “corbeille”  is  standard, “poubelle”  informal  in  Quebec . |
-| Screenshot | Capture d’écran | Avoid  screenshot ; “capture  d’écran ” is correct, “impression  d’écran ” also used in Quebec. |
+| Screenshot | Capture d’écran | Avoid  screenshot ; “capture  d’écran” is correct, “impression  d’écran” also used in Quebec. |
 
