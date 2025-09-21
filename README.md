@@ -17,7 +17,7 @@ For questions or discussions, feel free to use the Issues tab. Thank you for hel
 
 ## Canadian French vs European French
 | English  Term | Canadian French (Québecois) | European  French | Notes |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | AI model | Modèle d’IA | Modèle AI / AI model | France often drops the apostrophe and uses "AI" directly. |
 | App | Application | Appli / Application | France often shortens to " appli "; Canada uses full form. |
 | Branding | Image de marque | Branding | Canada  prefers  "image de marque" in  formal   contexts . |
@@ -26,6 +26,7 @@ For questions or discussions, feel free to use the Issues tab. Thank you for hel
 | Cloud computing | Informatique en nuage (adj: infonuagique) | Cloud computing | "Informatique en nuage" is the recommended term in Quebec; the adjective "infonuagique" is used. The form "infonuage" (noun) is uncommon. |
 | Data  scientist | Scientifique des données | Data  scientist | Canada translates job titles more rigorously. |
 | Deep  learning | Apprentissage profond | Deep  learning | Same  pattern as  above . |
+| Design (as in "by design", "it's designed that way") | Conception / conçu / intentionnellement | Design / conçu | Canada avoids "design" in formal contexts, preferring "conception" (noun), "conçu" (adj.), or "intentionnellement" (adv.); France uses "design" more freely, especially in creative/marketing contexts. |
 | Email | Courriel | Email | Canada officially promotes "courriel" to avoid anglicism. |
 | Feedback | Rétroaction | Feedback | Canada  uses  "rétroaction" in  formal   contexts . |
 | Hackathon | Marathon de programmation | Hackathon | Canada  sometimes  uses  a  descriptive phrase. |
