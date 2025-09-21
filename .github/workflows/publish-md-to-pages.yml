@@ -1,10 +1,14 @@
 name: Publish Markdown to GitHub Pages
 
+permissions:
+  id-token: write
+  pages: write
+  actions: read
+
 on:
   push:
     branches:
       - main
-
 jobs:
   publish:
     runs-on: ubuntu-latest
