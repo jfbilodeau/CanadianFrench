@@ -16,8 +16,9 @@ We welcome contributions! You can help improve this project by:
 For questions or discussions, feel free to use the Issues tab. Thank you for helping make this resource better!
 
 ## Canadian French vs European French
+
 | English  Term | Canadian French (Québecois) | European  French | Notes |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | AI model | Modèle d’IA | Modèle AI / AI model | France often drops the apostrophe and uses "AI" directly. |
 | App | Application | Appli / Application | France often shortens to " appli "; Canada uses full form. |
 | Branding | Image de marque | Branding | Canada  prefers  "image de marque" in  formal   contexts . |
