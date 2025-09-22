@@ -20,6 +20,7 @@ For questions or discussions, feel free to use the Issues tab. Thank you for hel
 | --- | --- | --- | --- |
 | AI model | Modèle d’IA | Modèle AI / AI model | France often drops the apostrophe and uses "AI" directly. |
 | App | Application | Appli / Application | France often shortens to " appli "; Canada uses full form. |
+| API | Interface de programmation (API) | API | France often uses "API"; recommend expanding on first use in Canadian docs. |
 | Branding | Image de marque | Branding | Canada  prefers  "image de marque" in  formal   contexts . |
 | Bug (software) | Bogue | Bug | "Bogue" is a Quebecois term; France uses "bug". |
 | Chatbot | Agent conversationnel / robot | Chatbot | Canada  prefers  "agent conversationnel" or "robot conversationnel". |
@@ -29,7 +30,7 @@ For questions or discussions, feel free to use the Issues tab. Thank you for hel
 | Email | Courriel | Email | Canada officially promotes "courriel" to avoid anglicism. |
 | Feedback | Rétroaction | Feedback | Canada  uses  "rétroaction" in  formal   contexts . |
 | Hackathon | Marathon de programmation | Hackathon | Canada  sometimes  uses  a  descriptive phrase. |
-| Hashtag | Mot-clic | Hashtag | "Mot- clic " is promoted in Quebec; France uses "hashtag". |
+| Hashtag | Mot-clic | Hashtag | "Mot-clic " is promoted in Quebec; France uses "hashtag". |
 | Link (web) | Lien hypertexte | Lien / Hyperlien | Quebec   often  uses "lien hypertexte"; France  uses  "lien" or "hyperlien". |
 | Login | Ouverture de session | Login / Connexion | Quebec   prefers  "ouverture de session"; France  uses  "connexion" or "login". |
 | Logout | Fermeture de session | Logout  / Déconnexion | Quebec  uses "fermeture de session"; France  uses  "déconnexion". |
@@ -62,4 +63,73 @@ For questions or discussions, feel free to use the Issues tab. Thank you for hel
 | Tag (social media) | Étiquette | Avoid  tag ; “étiquette ” is the French equivalent. |
 | Trash (computer) | Corbeille | Avoid   trash ; “corbeille”  is  standard, “poubelle”  informal  in  Quebec . |
 | Upload | Téléverser | Avoid  uploader ; “téléverser” is official in Quebec and clear in France. |
+| SDK | Kit de développement logiciel (SDK) | Prefer the full French name in documentation; "SDK" is common in speech. |
+| Repository | Dépôt | Avoid "repo" in formal docs; use "dépôt". |
+| Commit (git) | Validation (commit) | Use "validation" where appropriate; many devs still say "commit". |
+| Branch (git) | Branche | Use "branche". |
+| Pull request / Merge | Demande de fusion / Fusion | Prefer the French expansion on first use. |
+| Issue / Ticket | Problème / Billet / Signalement | Use "problème" or "billet"; clarify meaning. |
+| Workflow / Pipeline | Flux de travail / Chaîne de traitement | "Pipeline" is common; prefer French in formal docs. |
+| CI / CD | Intégration continue / Livraison continue | Expand acronyms on first use then keep them. |
+| Unit test / Integration test | Test unitaire / Test d’intégration | Prefer French terms. |
+| Latency | Latence | Standard translation. |
+| Throughput | Débit | Standard translation. |
+| Container | Conteneur (ex: conteneur Docker) | Use "conteneur"; avoid English "container". |
+| Orchestration | Orchestration | Used in FR; explain if needed. |
+| DevOps | Développement et exploitation / pratiques DevOps | Expand on first use and prefer French explanation in formal docs. |
+| SRE | Ingénierie de la fiabilité des sites (SRE) | Explain acronym and translate. |
+| SaaS / PaaS / IaaS | Logiciel en tant que service / Plateforme en tant que service / Infrastructure en tant que service | Give full French names on first use. |
+| On‑premises | Sur site / En interne | Use "sur site" or "en interne". |
+| Provisioning | Approvisionnement / Provisionnement | Prefer "approvisionnement". |
+| Data lake | Lac de données | Explain vs. "entrepôt de données" where relevant. |
+| Data warehouse | Entrepôt de données | Preferred French term. |
+| ETL | Extraction, transformation, chargement (ETL) | Expand acronym on first use. |
+| Feature store | Référentiel de fonctionnalités / Magasin de fonctionnalités | Rare; explain when used. |
+| Inference (ML) | Inférence | Standard translation. |
+| Training (model) | Entraînement / Apprentissage | Use "apprentissage" commonly. |
+| Fine-tuning | Ajustement fin / Affinage | Use one of the translations. |
+| Weights (model) | Poids | Standard translation. |
+| Embedding | Vecteur d’encodage / Embedding | Prefer "vecteur d'encodage" or keep "embedding" in parentheses. |
+| Tokenization | Tokenisation / Découpage en jetons | Explain "jeton". |
+| Model drift | Dérive de modèle | Standard translation. |
+| Hallucination (LLMs) | Hallucination | Used in FR; explain meaning. |
+| Explainability | Explicabilité / Explicabilité des modèles | Preferred translations. |
+| Rate limit | Limite de débit / Limitation de fréquence | Preferred translations. |
+
+
+
+## Additional anglicisms to avoid
+| English Term | Recommended French Equivalent | Notes / Avoid |
+| --- | --- | --- |
+| Roadmap | Feuille de route | Use "feuille de route". |
+| Deliverable | Livrable | "livrable" is standard. |
+| Kickoff | Réunion de lancement | Prefer "réunion de lancement". |
+| Milestone | Jalon | Use "jalon". |
+| Backlog | Carnet de produit / Liste des tâches | "carnet de produit" or "liste des tâches". |
+| Bandwidth (capacity) | Capacité / Charge de travail | Avoid metaphorical "bandwidth". |
+| Scalable | Extensible / Mise à l'échelle | Use "mise à l'échelle" for verbs. |
+| Synergy | Synergie | Use sparingly; prefer concrete phrasing. |
+| Brainstorming | Remue‑méninges | Use "remue‑méninges". |
+| User-friendly | Convivial / Ergonomique | Prefer "convivial" or "ergonomique". |
+| Touchpoint | Point de contact | Use "point de contact". |
+| UX / UI | Expérience utilisateur (UX) / Interface utilisateur (IU) | Expand acronyms. |
+| Customer success | Succès client / Gestion du succès client | Translate role and team names. |
+| Growth hacking | Marketing de croissance | Prefer "marketing de croissance". |
+| Lead (sales) | Prospect | Use "prospect". |
+| Cold call | Appel à froid | Use "appel à froid". |
+| Onboarding | Intégration | Use "intégration". |
+| Offboarding | Procédure de départ / Sortie | Use "procédure de départ". |
+| Paywall | Mur payant | Use "mur payant". |
+| Whitepaper | Livre blanc | Use "livre blanc". |
+| Freemium | Offre freemium | Explain as needed. |
+| Spam | Pourriel | Quebec: "pourriel". |
+| Clickbait | Appât à clics / Titre racoleur | Use descriptive alternatives. |
+| MVP (product) | Produit minimum viable (PMV) | Prefer PMV and French expansion. |
+| KPI | Indicateur clé de performance (ICP) | Prefer ICP in French contexts. |
+| ROI | Retour sur investissement (RSI) | Use full French term. |
+| CEO / CTO | PDG / Directeur technique | Offer French equivalents for org roles. |
+
+Notes:
+- When an English acronym is common, put the French expansion first and the acronym in parentheses on first use.
+- For technical audiences, show the English term in parentheses after the French term on first use to reduce confusion (e.g., "conteneur (container / Docker)").
 
