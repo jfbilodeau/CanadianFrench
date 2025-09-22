@@ -1,10 +1,23 @@
 # Canadian (Québec) French
 
+## Table of Contents
+
+- [Purpose](#purpose)
+- [Getting started](#getting-started)
+- [Contributing](#contributing)
+- [Comparing Canadian and European French Terms](#comparing-canadian-and-european-french-terms)
+- [Anglicisms to Avoid](#anglicisms-to-avoid)
+
 ## Purpose
 
-This page supports trainers, translators, and content creators in using Canadian French (Québécois) terminology by providing a curated selection of common terms, recommended equivalents, and notes on differences with European French. It is a selection, not an exhaustive glossary; contributions to expand or refine the list are welcome via issues or pull requests.
+This page supports technical trainers, translators, and content creators in using Canadian French (Québécois) terminology by providing a curated selection of common terms, recommended equivalents, and notes on differences with European French. It is a selection of technical terms and not an exhaustive glossary; contributions to expand or refine the list are welcome via issues or pull requests (see [Contributing](#Contributing)).
 
 Resource: [Vitrine linguistique (https://vitrinelinguistique.oqlf.gouv.qc.ca/)](https://vitrinelinguistique.oqlf.gouv.qc.ca/).
+
+## Getting started
+
+
+To quickly learn technical Canadian French terminology as a European French trainer, immerse yourself in authentic Canadian French environments. Start by changing your device and software language settings to Canadian French—this will expose you to terminology in real-world contexts and help you internalize differences. Regularly consult resources like the Vitrine linguistique and official Quebec government sites for up-to-date terms. Engage with Canadian French content (documentation, forums, webinars) and practice using the terminology in your daily work. This hands-on approach accelerates familiarity and helps you avoid common anglicisms or European French usages that differ in Canada.
 
 ## Contributing
 
@@ -15,7 +28,7 @@ We welcome contributions! You can help improve this project by:
 
 For questions or discussions, feel free to use the Issues tab. Thank you for helping make this resource better!
 
-## Canadian French vs European French
+## Comparing Canadian and European French Terms
 
 | English  Term | Canadian French (Québecois) | European  French | Notes |
 | --- | --- | --- | --- |
