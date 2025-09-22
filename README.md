@@ -63,102 +63,79 @@ For questions or discussions, feel free to use the Issues tab. Thank you for hel
 
 | English  Term | Recommended  French  Equivalent | Notes /  Anglicism  to  Avoid |
 | --- | --- | --- |
-| Appât à clics / Titre racoleur | Clickbait | Use descriptive alternatives. |
-| Appel à froid | Cold call | Use "appel à froid". |
-| Approvisionnement / Provisionnement | Provisioning | Prefer "approvisionnement". |
-| Bandwidth (capacity) | Capacité / Charge de travail | Avoid metaphorical "bandwidth". |
 | Backlog | Carnet de produit / Liste des tâches | "carnet de produit" or "liste des tâches". |
-| Branche | Branch (git) | Use "branche". |
+| Bandwidth (capacity) | Capacité / Charge de travail | Avoid metaphorical "bandwidth". |
 | Brainstorming | Remue‑méninges | Use "remue‑méninges". |
+| Branch (git) | Branche | Use "branche". |
 | Browser | Navigateur / Navigateur Web | Avoid  browser ; “navigateur  Web” is precise in formal contexts. “Butineur” was proposed in Quebec but is rare.  Don’t use it |
-| Carnet de produit / Liste des tâches | Backlog | "carnet de produit" or "liste des tâches". |
 | CEO / CTO | PDG / Directeur technique | Offer French equivalents for org roles. |
 | CI / CD | Intégration continue / Livraison continue | Expand acronyms on first use then keep them. |
-| Cliquer | Click ( verb ) | Avoid  clicker ; “ cliquer ” is correct. |
+| Click (verb) | Cliquer | Avoid  clicker ; “cliquer” is correct. |
+| Clickbait | Appât à clics / Titre racoleur | Use descriptive alternatives. |
 | Cloud / Cloud computing | Informatique en nuage / Infonuagique | Avoid "cloud" or "cloud computing"; prefer "informatique en nuage" (noun) and "infonuagique" (adjective). The noun form "infonuage" is not standard. |
 | Commit (git) | Validation (commit) | Use "validation" where appropriate; many devs still say "commit". |
-| Convivial / Ergonomique | User-friendly | Prefer "convivial" or "ergonomique". |
 | Container | Conteneur (ex: conteneur Docker) | Use "conteneur"; avoid English "container". |
-| Corbeille | Trash (computer) | Avoid   trash ; “corbeille”  is  standard, “poubelle”  informal  in  Quebec . |
 | Customer success | Succès client / Gestion du succès client | Translate role and team names. |
 | Data lake | Lac de données | Explain vs. "entrepôt de données" where relevant. |
 | Data warehouse | Entrepôt de données | Preferred French term. |
 | Dashboard | Tableau de bord | Avoid   dashboard ; “tableau de bord”  is  standard. |
+| Deliver (training session) | Donner / Animer (une séance, un atelier, une formation) | Avoid literal  livrer  in this sense; “donner” or “animer” are idiomatic. |
 | Deliverable | Livrable | "livrable" is standard. |
-| Deliver  (training session) | Donner / Animer (une séance, un atelier, une formation) | Avoid literal  livrer  in this sense; “donner” or “animer” are idiomatic. |
-| Dépôt | Repository | Avoid "repo" in formal docs; use "dépôt". |
 | DevOps | Développement et exploitation / pratiques DevOps | Expand on first use and prefer French explanation in formal docs. |
-| Diffusion en continu | Streaming | Canada uses a literal translation; France uses the English term. |
-| Download | Télécharger | Avoid  downloader ; “télécharger” is correct in both varieties. |
+| Download | Télécharger / Téléchargement | Avoid  downloader ; “télécharger” is correct in both varieties. |
 | Embedding | Vecteur d’encodage / Embedding | Prefer "vecteur d'encodage" or keep "embedding" in parentheses. |
-| Entraînement / Apprentissage | Training (model) | Use "apprentissage" commonly. |
 | ETL | Extraction, transformation, chargement (ETL) | Expand acronym on first use. |
-| Expérience utilisateur (UX) / Interface utilisateur (IU) | UX / UI | Expand acronyms. |
 | Explainability | Explicabilité / Explicabilité des modèles | Preferred translations. |
-| Extensible / Mise à l'échelle | Scalable | Use "mise à l'échelle" for verbs. |
 | Feature store | Référentiel de fonctionnalités / Magasin de fonctionnalités | Rare; explain when used. |
 | Fine-tuning | Ajustement fin / Affinage | Use one of the translations. |
-| Flux de travail / Chaîne de traitement | Workflow / Pipeline | "Pipeline" is common; prefer French in formal docs. |
 | Folder (computer) | Dossier | Avoid  folder ; “dossier” is standard. |
 | Freemium | Offre freemium | Explain as needed. |
 | Growth hacking | Marketing de croissance | Prefer "marketing de croissance". |
 | Hallucination (LLMs) | Hallucination | Used in FR; explain meaning. |
-| Indicateur clé de performance (ICP) | KPI | Prefer ICP in French contexts. |
-| Inférence | Inference (ML) | Standard translation. |
-| Ingénierie de la fiabilité des sites (SRE) | SRE | Explain acronym and translate. |
-| Intégration | Onboarding | Use "intégration". |
-| Intégration continue / Livraison continue | CI / CD | Expand acronyms on first use then keep them. |
-| Invite /  Invite de commande / amorce | Prompt (in AI) | Canada  uses  descriptive alternatives; France  adopts  "prompt". |
+| Hashtag | Mot-clic | "Mot-clic " is promoted in Quebec; France uses "hashtag". |
+| Inference (ML) | Inférence | Standard translation. |
 | Issue / Ticket | Problème / Billet / Signalement | Use "problème" or "billet"; clarify meaning. |
 | Jalon | Milestone | Use "jalon". |
-| Kit de développement logiciel (SDK) | SDK | Prefer the full French name in documentation; "SDK" is common in speech. |
-| Lac de données | Data lake | Explain vs. "entrepôt de données" where relevant. |
-| Latence | Latency | Standard translation. |
+| Kickoff | Réunion de lancement | Prefer "réunion de lancement". |
+| KPI | Indicateur clé de performance (ICP) | Prefer ICP in French contexts. |
+| Latency | Latence | Standard translation. |
 | Lead (sales) | Prospect | Use "prospect". |
-| Limite de débit / Limitation de fréquence | Rate limit | Preferred translations. |
-| Livrable | Deliverable | "livrable" is standard. |
-| Logiciel en tant que service / Plateforme en tant que service / Infrastructure en tant que service | SaaS / PaaS / IaaS | Give full French names on first use. |
-| Machine  learning | Apprentissage automatique | Canada favors full translation; France often uses the English term. |
-| Magasinage en ligne / Achat en ligne | Online shopping | Avoid   shopping en ligne ; “magasinage” in  Quebec , “achat” in France. |
-| Marketing de croissance | Growth hacking | Prefer "marketing de croissance". |
+| Machine learning | Apprentissage automatique | Canada favors full translation; France often uses the English term. |
+| Milestone | Jalon | Use "jalon". |
 | Model drift | Dérive de modèle | Standard translation. |
-| Mot-clic | Hashtag | "Mot-clic " is promoted in Quebec; France uses "hashtag". |
-| Mur payant | Paywall | Use "mur payant". |
 | MVP (product) | Produit minimum viable (PMV) | Prefer PMV and French expansion. |
-| Navigateur / Navigateur Web | Browser | Avoid  browser ; “navigateur  Web” is precise in formal contexts. “Butineur” was proposed in Quebec but is rare.  Don’t use it |
-| Offre freemium | Freemium | Explain as needed. |
 | Offboarding | Procédure de départ / Sortie | Use "procédure de départ". |
-| On‑premises | Sur site / En interne | Use "sur site" or "en interne". |
+| On-premises | Sur site / En interne | Use "sur site" or "en interne". |
+| Onboarding | Intégration | Use "intégration". |
+| Online shopping | Magasinage en ligne / Achat en ligne | Avoid   shopping en ligne ; “magasinage” in  Quebec , “achat” in France. |
 | Orchestration | Orchestration | Used in FR; explain if needed. |
 | Paramètres / Réglages | Settings | Avoid  settings ; “paramètres” is common in Quebec, “réglages ” also in France. |
 | Paywall | Mur payant | Use "mur payant". |
-| PDG / Directeur technique | CEO / CTO | Offer French equivalents for org roles. |
 | Pipeline | Flux de travail / Chaîne de traitement | "Pipeline" is common; prefer French in formal docs. |
 | Point de contact | Touchpoint | Use "point de contact". |
-| Poids | Weights (model) | Standard translation. |
-| Procédure de départ / Sortie | Offboarding | Use "procédure de départ". |
-| Produit minimum viable (PMV) | MVP (product) | Prefer PMV and French expansion. |
-| Problème / Billet / Signalement | Issue / Ticket | Use "problème" or "billet"; clarify meaning. |
-| Prospect | Lead (sales) | Use "prospect". |
 | Pourriel | Spam | Quebec: "pourriel". |
-| Produit minimum viable (PMV) | MVP (product) | Prefer PMV and French expansion. |
+| Procédure de départ / Sortie | Offboarding | Use "procédure de départ". |
+| Prompt (in AI) | Invite /  Invite de commande / amorce | Canada  uses  descriptive alternatives; France  adopts  "prompt". |
 | Prompt engineering | Conception d’amorces | Canada attempts to translate; France uses the English phrase. |
+| Prospect | Lead (sales) | Use "prospect". |
+| Rate limit | Limite de débit / Limitation de fréquence | Preferred translations. |
 | Remue‑méninges | Brainstorming | Use "remue‑méninges". |
 | Repository | Dépôt | Avoid "repo" in formal docs; use "dépôt". |
 | Retour sur investissement (RSI) | ROI | Use full French term. |
 | Réunion de lancement | Kickoff | Prefer "réunion de lancement". |
 | Roadmap | Feuille de route | Use "feuille de route". |
+| ROI | Retour sur investissement (RSI) | Use full French term. |
 | SaaS / PaaS / IaaS | Logiciel en tant que service / Plateforme en tant que service / Infrastructure en tant que service | Give full French names on first use. |
 | Scalable | Extensible / Mise à l'échelle | Use "mise à l'échelle" for verbs. |
 | Screenshot | Capture d’écran | Avoid  screenshot ; “capture  d’écran” is correct, “impression  d’écran” also used in Quebec. |
 | SDK | Kit de développement logiciel (SDK) | Prefer the full French name in documentation; "SDK" is common in speech. |
 | Settings | Paramètres / Réglages | Avoid  settings ; “paramètres” is common in Quebec, “réglages ” also in France. |
 | Spam | Pourriel | Quebec: "pourriel". |
+| SRE | Ingénierie de la fiabilité des sites (SRE) | Explain acronym and translate. |
 | Streaming | Diffusion en continu | Canada uses a literal translation; France uses the English term. |
-| Succès client / Gestion du succès client | Customer success | Translate role and team names. |
-| Sur site / En interne | On‑premises | Use "sur site" or "en interne". |
-| Synergie | Synergy | Use sparingly; prefer concrete phrasing. |
+| Synergy | Synergie | Use sparingly; prefer concrete phrasing. |
 | Tableau de bord | Dashboard | Avoid   dashboard ; “tableau de bord”  is  standard. |
+| Tag (HTML/XML) | Balise | Use "balise" for HTML/XML; avoid "tag". |
 | Tag (social media) | Étiquette | Avoid  tag ; “étiquette ” is the French equivalent. |
 | Téléchargement | Download | Avoid  downloader ; “télécharger” is correct in both varieties. |
 | Téléverser | Upload | Avoid  uploader ; “téléverser” is official in Quebec and clear in France. |
@@ -167,12 +144,14 @@ For questions or discussions, feel free to use the Issues tab. Thank you for hel
 | Touchpoint | Point de contact | Use "point de contact". |
 | Trash (computer) | Corbeille | Avoid   trash ; “corbeille”  is  standard, “poubelle”  informal  in  Quebec . |
 | Training (model) | Entraînement / Apprentissage | Use "apprentissage" commonly. |
+| Unit test / Integration test | Test unitaire / Test d’intégration | Prefer French terms. |
+| Upload | Téléverser | Avoid  uploader ; “téléverser” is official in Quebec and clear in France. |
 | UX / UI | Expérience utilisateur (UX) / Interface utilisateur (IU) | Expand acronyms. |
 | Validation (commit) | Commit (git) | Use "validation" where appropriate; many devs still say "commit". |
 | Vecteur d’encodage / Embedding | Embedding | Prefer "vecteur d'encodage" or keep "embedding" in parentheses. |
 | Weights (model) | Poids | Standard translation. |
-| Workflow / Pipeline | Flux de travail / Chaîne de traitement | "Pipeline" is common; prefer French in formal docs. |
 | Whitepaper | Livre blanc | Use "livre blanc". |
+| Workflow / Pipeline | Flux de travail / Chaîne de traitement | "Pipeline" is common; prefer French in formal docs. |
 
 Notes:
 - When an English acronym is common, put the French expansion first and the acronym in parentheses on first use.
