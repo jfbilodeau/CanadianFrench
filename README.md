@@ -1,5 +1,3 @@
-# Canadian (Québec) French
-
 ## Table of Contents
 
 - [Purpose](#purpose)
