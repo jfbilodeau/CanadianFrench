@@ -8,6 +8,8 @@
 
 ## Purpose
 
+> This is a demo for the 87650 session
+
 This page supports technical trainers, translators, and content creators in using Canadian French (Québécois) terminology by providing a curated selection of common terms, recommended equivalents, and notes on differences with European French. It is a selection of technical terms and not an exhaustive glossary; contributions to expand or refine the list are welcome via issues or pull requests (see [Contributing](#Contributing)).
 
 Resource: [Vitrine linguistique (https://vitrinelinguistique.oqlf.gouv.qc.ca/)](https://vitrinelinguistique.oqlf.gouv.qc.ca/).
